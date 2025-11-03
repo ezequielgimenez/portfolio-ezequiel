@@ -1,0 +1,21 @@
+{
+  "titulo-hello1": "Hola! Soy Ezequiel.",
+  "titulo-hello2": "",
+  "titulo-hello3": "Desarrollador Web",
+  "titulo-work": "Algunos trabajos",
+  "work-1": "Olympia Suplementos – Tienda online de suplementos deportivos. Me encargue de todo el diseño y configuración integral en Tienda Nube, con personalización visual, carga optimizada de productos, SEO para busquedas en google, banners y páginas informativas. Una tienda moderna, funcional y enfocada en mejorar la experiencia de compra.",
+
+  "work-2": "Cueva Burger – Página de inicio para una pizzería y hamburguesería. Diseño de una página de inicio moderna y visualmente atractiva para Cueva Burger, un restaurante especializado en pizzas y hamburguesas. El objetivo era transmitir la esencia del negocio con un estilo joven, dinámico y cercano. El diseño incluye: un banner principal, menú destacado, especialidades, ubicación y horario, y un chatbot con inteligencia artificial diseñado para responder preguntas sobre pedidos y menús. El prototipo se creó en Figma, utilizando una paleta de colores oscuros con toques de colores cálidos que refuerzan la identidad culinaria del restaurante.",
+
+  "work-3": "Proyecto de apx school. Desarrollé un e-commerce que permite a los usuarios registrarse mediante autenticación passwordless y realizar compras con MercadoPago. Implementé un sistema backend con Next.js que permite al administrador agregar y modificar productos desde Airtable, sincronizados automáticamente con una base de datos en PostgreSQL mediante Sequelize, alojada en Supabase. Proyecto alojado en Vercel, garantizando un rendimiento óptimo y escalabilidad.",
+
+  "work-4": "Creé una web app para localizar mascotas perdidas utilizando React, CSS Modules, y empaquetando el frontend con Vite. Desplegué el frontend en Firebase Hosting y desarrollé un backend robusto con Express.js, manejando datos con Sequelize y enviando correos con Nodemailer. Integré mapas interactivos con la API de Mapbox GL React, mejorando la experiencia de usuario para localizar mascotas.",
+
+  "titulo-about": "Sobre mi",
+  "name": "Ezequiel Giménez",
+  "description": " un apasionado Web Developer con habilidades en frontend y backend, creando aplicaciones con ",
+  "stacks": "React, Next.js, Node.js y bases de datos como PostgreSQL.🚀",
+  "about-me": "Estoy compremetido con mi crecimiento profesional y estoy siempre buscando formas de mejorar y expandir mis habilidades en ambas áreas. Cuando no estoy inmerso en el diseño o la programación, me gusta  salir a dar un paseo, siempre buscando nuevas ideas e inspiración para mis proyectos. 🚴‍♂️🌲",
+  "titulo-contact": "Contacto",
+  "contact": "Si te interesa mi perfil, envíame un mensaje!"
+}
