@@ -4,8 +4,11 @@
   "titulo-hello3": "Web developer",
   "titulo-work": "Some works",
   "work-1": "Olympia Supplements – Online sports supplement store. I handled the entire design and setup on Tienda Nube, including visual customization, optimized product loading, SEO for Google searches, banners, and informational pages. A modern, functional store focused on improving the shopping experience.",
+
   "work-2": "Cueva Burger – Landing page for a pizzeria and burger joint. Design of a modern and visually appealing landing page for Cueva Burger, a pizza and burger restaurant. The goal was to convey the essence of the business with a young, dynamic, and approachable style. The design includes: a hero banner, featured menu, specialties, location and hours, and an AI-powered chatbot designed to answer questions about orders and menus. The prototype was created in Figma, using a dark color palette with touches of warm color that reinforce the restaurant's culinary identity.",
+
   "work-3": "Apx School project. I developed an e-commerce platform that allows users to register using passwordless authentication and make purchases with MercadoPago. I implemented a backend system with Next.js that allows the administrator to add and modify products from Airtable, automatically synchronized with a PostgreSQL database using Sequelize, hosted on Supabase. The project is hosted on Vercel, ensuring optimal performance and scalability.",
+
   "work-4": "I created a web app to locate lost pets using React, CSS Modules, and packaging the frontend with Vite. I deployed the frontend on Firebase Hosting and developed a robust backend with Express.js, handling data with Sequelize and sending emails with Nodemailer. I integrated interactive maps with the Mapbox GL React API, improving the user experience for locating pets.",
 
   "titulo-about": "About me",
