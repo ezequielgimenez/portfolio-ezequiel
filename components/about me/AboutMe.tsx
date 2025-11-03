@@ -28,7 +28,9 @@ export default function AboutMeComp() {
               <br />
               {t("about-me")}
             </h3>
-            <h3 className="text-xl font-semibold text-white mb-2">Formación</h3>
+            <h3 className="text-xl font-semibold text-white mb-2 drop-shadow-[0px_0px_5px_rgba(197,75,140,1)]">
+              Formación
+            </h3>
             <p className="text-gray-400">
               Desarrollador Web Full Stack –{" "}
               <a
